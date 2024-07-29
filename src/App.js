@@ -1,8 +1,8 @@
 
-import './App.css';
+
 import About from './Components/About';
 import Home from './Components/Home';
-import {createBrowserRouter, BrowserRouter ,RouterProvider} from 'react-router-dom';
+import {createBrowserRouter ,RouterProvider} from 'react-router-dom';
 import Services from './Components/Services';
 import Contact from './Components/Contact';
 import Resume from './Components/Resume';
